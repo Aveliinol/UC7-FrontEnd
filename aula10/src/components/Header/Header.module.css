@@ -1,10 +1,11 @@
 .header {
     font-family: Arial, Helvetica, sans-serif;
     color: darkgrey;
-    font-weight: bold;
+    font-weight:bold;
     text-align: center;
     background-color: darkblue;
     padding: 1rem;
+    bottom: 0;
 }
 
 .header h1 {
@@ -23,6 +24,7 @@
     text-decoration: none;
     margin: 0 0.1rem;
     font-size: 1.125rem;
+    color: black;
 }
 
 .header nav ul li a:hover {

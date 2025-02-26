@@ -7,7 +7,7 @@ function Home(){
         <>
         <Header/>
         <main>
-        <p>teste</p>
+        <p>aqui é meu home</p>
         </main>
         <Footer/>
         </>
